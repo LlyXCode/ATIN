@@ -111,7 +111,22 @@ end
 
 -- daftar link raw route (ubah ke link punyamu)
 routes = {
-    {"BASE → CP8", loadRoute("https://raw.githubusercontent.com/LlyXCode/ATIN/refs/heads/main/12.lua")},
+    {"BASE → CP1", loadRoute("https://raw.githubusercontent.com/LlyXCode/ATIN/refs/heads/main/01.lua")},
+    {"CP1 → CP2", loadRoute("https://raw.githubusercontent.com/LlyXCode/ATIN/refs/heads/main/12.lua")},
+    {"CP2 → CP3", loadRoute("https://raw.githubusercontent.com/LlyXCode/ATIN/refs/heads/main/23.lua")},
+    {"CP3 → CP4", loadRoute("https://raw.githubusercontent.com/LlyXCode/ATIN/refs/heads/main/34.lua")},
+    {"CP4 → CP5", loadRoute("https://raw.githubusercontent.com/LlyXCode/ATIN/refs/heads/main/45.lua")},
+    {"CP5 → CP6", loadRoute("https://raw.githubusercontent.com/LlyXCode/ATIN/refs/heads/main/56.lua")},
+    {"CP6 → CP7", loadRoute("https://raw.githubusercontent.com/LlyXCode/ATIN/refs/heads/main/67.lua")},
+    {"CP7 → CP8", loadRoute("https://raw.githubusercontent.com/LlyXCode/ATIN/refs/heads/main/78.lua")},
+    {"CP8 → CP9", loadRoute("https://raw.githubusercontent.com/LlyXCode/ATIN/refs/heads/main/89.lua")},
+    {"CP9 → CP10", loadRoute("https://raw.githubusercontent.com/LlyXCode/ATIN/refs/heads/main/910.lua")},
+    {"CP10 → CP11", loadRoute("https://raw.githubusercontent.com/LlyXCode/ATIN/refs/heads/main/1011.lua")},
+    {"CP11 → CP12", loadRoute("https://raw.githubusercontent.com/LlyXCode/ATIN/refs/heads/main/1112.lua")},
+    {"CP12 → CP13", loadRoute("https://raw.githubusercontent.com/LlyXCode/ATIN/refs/heads/main/1213.lua")},
+    {"CP13 → CP14", loadRoute("https://raw.githubusercontent.com/LlyXCode/ATIN/refs/heads/main/1314.lua")},
+    {"CP14 → CP15", loadRoute("https://raw.githubusercontent.com/LlyXCode/ATIN/refs/heads/main/1415.lua")},
+    {"CP15 → SUMMIT", loadRoute("https://raw.githubusercontent.com/LlyXCode/ATIN/refs/heads/main/1516.lua")},
 }
 
 -- ============================================================
