@@ -524,7 +524,7 @@ SettingsTab:Button({
     Icon = "lucide:layers-2",
     Desc = "Klik untuk pindah ke private server",
     Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/Bardenss/PS/refs/heads/main/ps"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Y/PS/refs/heads/main/ps"))()
     end
 })
 -- ============================================================
